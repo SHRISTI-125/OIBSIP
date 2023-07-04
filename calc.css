@@ -1,0 +1,48 @@
+
+.calc{
+    background: url("file:///c:/Users/Shristi Kumari/OneDrive/Pictures/gatherings.jpg");
+}
+
+.calc 
+{  
+    width: 396px;  
+    height: 630px;  
+    margin: auto;  
+    border: 3px ;  
+    border-radius: 5px;
+    background-color: rgb(208, 230, 246);
+    padding: 20px;  
+    display: flex;
+}  
+
+input  
+{  
+width: 66px;  
+background-color: rgb(175, 227, 244);    
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;
+    cursor: pointer; 
+}  
+
+#calculation_begans{  
+width: 342px;  
+border: 5px;  
+border-radius: 3px;  
+padding: 20px;  
+background-color: rgb(164, 210, 253);  
+}  
+
+#design{
+    background-color: rgb(115, 186, 252);
+    border: 5px;
+    border-radius: 10px;
+    color: rgb(4, 56, 91);
+}
+
+#Enter{
+    width: 144px;
+    background-color: rgb(4, 88, 197);
+    color: whitesmoke;
+}
